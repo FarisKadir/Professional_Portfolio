@@ -1,6 +1,16 @@
 # Professional_Profile
 
+
 ## Description
 
-I created this page to display some of the work that I have completed. There are links to my public repos and deployed projects. My contact information and resume are also available on this page.
+This site is being used to display some of my projects. You can find my contact information, links to my professional profiles on LinkedIn and GitHub as well as links to some of my deployed projects and repos.
 
+
+## Mock Up
+
+![professional_portfolio](./assets/images/portfolio_mockup.png)
+
+
+## Link To the Deployed Site
+
+https://fariskadir.github.io/Professional_Portfolio/
